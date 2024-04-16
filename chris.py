@@ -1,3 +1,3 @@
-<<<<<<< HEAD
+
 print("Chris滚")
 
