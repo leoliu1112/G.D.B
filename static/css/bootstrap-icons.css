@@ -1224,7 +1224,7 @@ url("../font/bootstrap-icons.woff") format("woff");
 .bi-tags-fill::before { content: "\f5b1"; }
 .bi-tags::before { content: "\f5b2"; }
 .bi-telegram::before { content: "\f5b3"; }
-.bi-telephone-fill::before { content: "\f1d7"; }
+.bi-telephone-fill::before { content: "\f829"; }
 .bi-telephone-forward-fill::before { content: "\f5b5"; }
 .bi-telephone-forward::before { content: "\f5b6"; }
 .bi-telephone-inbound-fill::before { content: "\f5b7"; }
@@ -1237,7 +1237,7 @@ url("../font/bootstrap-icons.woff") format("woff");
 .bi-telephone-plus::before { content: "\f5be"; }
 .bi-telephone-x-fill::before { content: "\f5bf"; }
 .bi-telephone-x::before { content: "\f5c0"; }
-.bi-telephone::before { content: "\f1d7"; }
+.bi-telephone::before { content: "\f829"; }
 .bi-terminal-fill::before { content: "\f5c2"; }
 .bi-terminal::before { content: "\f5c3"; }
 .bi-text-center::before { content: "\f5c4"; }
